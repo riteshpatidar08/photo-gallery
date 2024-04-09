@@ -1,0 +1,10 @@
+.text {
+    color: pink;
+    background-color: black;
+    text-align: center;
+}
+.box{
+    background-color: olive;
+    height: auto;
+    width: 10;
+}
